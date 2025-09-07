@@ -1,0 +1,10 @@
+.center {
+                text-align: center;
+}
+.do {
+                color: red;
+}
+#hungbeo:hover {
+                background-color: blue;
+                color: red;
+}
